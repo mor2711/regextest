@@ -1,0 +1,14 @@
+Valid
+www.espn.com
+espn.com
+http://espn.com
+https://www.espn.com
+https://neccbb.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1
+https://www.theringer.com/sports/2018/4/2/17190026/espn-plus-streaming-service-april-12
+espn.it
+
+Invalid
+https://espn
+espn.c34212
+espn
+http://.com
